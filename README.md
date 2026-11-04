@@ -26,7 +26,7 @@ A self-hosted Vaultwarden and Bitwarden environment, hardened with encryption, m
 | 7 | Monitoring and Logging Setup |
 | 8 | User Training Materials |
 
-Screenshot evidence for each phase is in `proof/`.
+Screenshot evidence for each phase is in the P1 to P8 image files in this repository.
 
 ## Tools
 Docker, Caddy, Vaultwarden, Bitwarden, OpenSSL, GPG, Filebeat, Elasticsearch, Kibana.
